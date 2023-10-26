@@ -1,0 +1,9 @@
+// 16:9 Hack Disabled
+patch=1,EE,20106E10,extended,C480004C
+patch=1,EE,20106E28,extended,00000000
+patch=1,EE,20106E2C,extended,00000000
+patch=1,EE,20106E30,extended,4600A503
+patch=1,EE,20106E54,extended,00000000
+patch=1,EE,20106E58,extended,00000000
+patch=1,EE,20106E70,extended,00000000
+patch=1,EE,20106E74,extended,00000000
